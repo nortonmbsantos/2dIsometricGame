@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PowerUp2.wav-bd5027859f26632c4bf18933603fbd75.sample"
+
+[deps]
+
+source_file="res://assets/Sounds/Game/PowerUp2.wav"
+dest_files=[ "res://.import/PowerUp2.wav-bd5027859f26632c4bf18933603fbd75.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

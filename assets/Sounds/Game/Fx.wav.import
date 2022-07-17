@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fx.wav-8762f66d5552126d0b41ca19c9be9884.sample"
+
+[deps]
+
+source_file="res://assets/Sounds/Game/Fx.wav"
+dest_files=[ "res://.import/Fx.wav-8762f66d5552126d0b41ca19c9be9884.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

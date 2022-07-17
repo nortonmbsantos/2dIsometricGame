@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/9 - Quiet.ogg-a9a55d7dfd670286d2de84b07b31590c.oggstr"
+
+[deps]
+
+source_file="res://assets/Musics/9 - Quiet.ogg"
+dest_files=[ "res://.import/9 - Quiet.ogg-a9a55d7dfd670286d2de84b07b31590c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
