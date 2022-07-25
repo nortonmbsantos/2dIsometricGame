@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://assets/Actor/Characters/BlueNinja/Faceset.png" type="Texture" id=1]
+[ext_resource path="res://scenes/CharacterButtonScript.gd" type="Script" id=2]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="TextureButton" type="TextureButton" parent="."]
+anchor_left = 0.089
+anchor_top = 0.437
+anchor_right = 0.128
+anchor_bottom = 0.503
+margin_left = -0.136002
+margin_top = -0.200012
+margin_right = -0.0720062
+margin_bottom = 0.199982
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource( 1 )
+script = ExtResource( 2 )
